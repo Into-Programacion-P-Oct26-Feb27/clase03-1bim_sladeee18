@@ -30,7 +30,7 @@ public class Ejemplo01 {
         String apellido = entrada.nextLine();
         
         System.out.println("Nombre ingresado es:" + nombre);
-        System.out.println("Apellido ingresado es:" + apellido);
+        System.out.println("Apellido ingresado es: " + apellido);
         
     }
     
